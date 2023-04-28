@@ -27,7 +27,7 @@ With [npm](https://npmjs.org/) installed, run
     
     
 ## Implementation steps
-(1) Deploy FlashloanExecutor contract, and save the [contract address](https://goerli.etherscan.io/address/0xd9a97c82e65caa643f6daa88a6f99dda79bd8ec2)
-(2) Go to contract [BankWithFlashloan](https://goerli.etherscan.io/address/0xbe02727047fADd7fe434E093e001745B42C5F49B#code), input contract addess and amount 1000000e18 to call Flashloan function. 
-(3) Check if the FlashloanExecutor contract receive the NFT.
-(4) GO to [FlashloanExecutor](https://goerli.etherscan.io/address/0xd9a97c82e65caa643f6daa88a6f99dda79bd8ec2) you deployed, and call transfer the NFT to your wallet.
+(1) Deploy FlashloanExecutor contract, and save the [contract address](https://goerli.etherscan.io/address/0xd9a97c82e65caa643f6daa88a6f99dda79bd8ec2) 
+(2) Go to contract [BankWithFlashloan](https://goerli.etherscan.io/address/0xbe02727047fADd7fe434E093e001745B42C5F49B#code), input contract addess and amount 1000000e18 to call Flashloan function.    
+(3) Check if the FlashloanExecutor contract receive the NFT.   
+(4) GO to [FlashloanExecutor](https://goerli.etherscan.io/address/0xd9a97c82e65caa643f6daa88a6f99dda79bd8ec2) you deployed, and call transfer the NFT to your wallet.   
